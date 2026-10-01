@@ -1,0 +1,4 @@
+ADFIR synthetic test forensic artifact.
+This text file simulates a non-sensitive target artifact for testing tool executions.
+Timestamp: 2026-08-24T00:00:00Z
+TargetToken: ADFIR_TEST_SIGNATURE_ALPHA_77

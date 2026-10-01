@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+volatility-env/
+*.db
+*.sqlite3
+
+# Node / Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Rust / Tauri
+target/
+src-tauri/target/
+
+# Evidence & Data (Never commit real forensic evidence)
+data/
+evidence/intake/*
+.adfir_prod_test_data/
+build/
+tools/
+.vscode/
+*.E01
+*.raw
+*.dd
+*.dmp
+*.vmem
+*.pcap
+*.pcapng
+
+# Environment & Secrets
+.env
+*.pem
+*.key
+
